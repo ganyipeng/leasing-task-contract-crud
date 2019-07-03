@@ -57,6 +57,10 @@ The crud opts of contract.<br/>
 ### 远程 github 发起 pull 请求
 
 ### 知识总结
+* 把代码写出来只能算是将东西给吃来下去；写代码/完成任务，算是吃东西
+* 吃完之后还需要肠胃的消化吸收才算有营养；及时复习总结，算是消化东西
+![image](http://www.plantuml.com/plantuml/svg/SoWkIImgAStDuIh9BCb9LNYwVUcJlNEUpLtwRDU49xlwda-P_spBRgwq_FoIr2AevFFT_IzNzJpP0PM4S9_FQddQkl5bmwmdExkVBcdXAaWi0XgOcPy7rQHGpQMWeFIqSTQJtRkVTYsq2aaipixCIrTIqDMrKr2223vh01essIguD3StiQXIYQkM2yaOY6LGOoOqlrowrieriGHXnBDj7Kzxfbavv-SLb-QcWZLZjIvQERqeDJKlrYxw-ThE9xkt0pqPYsuY5rO7uT2CQRL3QbuAC4G1)
+
 #### 注解图谱
 ![image](http://www.plantuml.com/plantuml/svg/bLB1IiD04BtlL-mF5Fz0jhOW5Ggb1UzhCsq3sspSdLHwLF0Yr5vQ1V5IYkZ5Q2aYeh-JRMx-WgbTiY7WmLFcpUvxy-PbcKQkC1eAKXDSQrgJ0Ief12ZRw80Q-LqWZG11zNWNQ1j2gNsKQcolDAK7WX17fPNAVawqtsslI7NbxudL22G25T13Adj5BydbEZsVcVLJ-hZy_hfBdczD_4PODK9vvYlm20GUtPAj1Cgmf92-lsncgrnXi_hSCpSVPZqdh0qQtSqjFer0OvE7eH_q2Ji4LxUaBe38rNKGW61XsOxo-uFoIcR-QYPnRcXd9fbUPFtSGeihFipHWVJ6sL2EWsEkV7uY89zJIivc_k_Oh4ydOEudoTMYc1fXzep-IIxyvIHUfB7Zc-k7PBeax8YFGEbEgBAiwXnvDV9yB2vKrhJlOyUW7aU-qoIiuL6xLavbMHKDnGy0)
 
