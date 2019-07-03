@@ -1,7 +1,8 @@
 # leasing-task-contract-crud
 
 The crud opts of contract.<br/>
-用时2小时
+开发用时2小时
+文档总结用时2.5小时
 
 ## 工作分解
 
