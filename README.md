@@ -1,6 +1,7 @@
 # leasing-task-contract-crud
 
-The crud opts of contract.
+The crud opts of contract.<br/>
+用时2小时
 
 ## 工作分解
 
