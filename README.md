@@ -56,7 +56,8 @@ The crud opts of contract.<br/>
 ### 远程 github 发起 pull 请求
 
 ### 知识总结
-http://www.plantuml.com/plantuml/png/SoWkIImgAStDuNBEIImkLd26qi5GEWXA-t9nEIlewje19O91D50Y24I39FBoIr8LYZBJCqeKyjE09ZoRkk5PxxfdcrUyMBxu_PvPpwRjVBPvwjF-9g0ubqDGQc5fQd59G69HOYwSvvIVKidb491OaX6MM9IPc9IJYcvgCDUpERrFknR2JULo24ujAijCJbLuld4tLsfUYW9G0uQs8AwdwnQ-M8UipIknBBMeEBYWA3CltIMn9D6nD2Mp16IbmhE-fK_x5-CqovSBeaaX1QWBOY2NWsUAmjErqv-jsuhGvW1a0GCK0000
+![image]
+(http://www.plantuml.com/plantuml/png/SoWkIImgAStDuNBEIImkLd26qi5GEWXA-t9nEIlewje19O91D50Y24I39FBoIr8LYZBJCqeKyjE09ZoRkk5PxxfdcrUyMBxu_PvPpwRjVBPvwjF-9g0ubqDGQc5fQd59G69HOYwSvvIVKidb491OaX6MM9IPc9IJYcvgCDUpERrFknR2JULo24ujAijCJbLuld4tLsfUYW9G0uQs8AwdwnQ-M8UipIknBBMeEBYWA3CltIMn9D6nD2Mp16IbmhE-fK_x5-CqovSBeaaX1QWBOY2NWsUAmjErqv-jsuhGvW1a0GCK0000)
 
 ## 遇到的问题
 
