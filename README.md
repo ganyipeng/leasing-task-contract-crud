@@ -33,6 +33,11 @@ The crud opts of contract.
 {"timestamp":"2019-07-03T03:57:33.147+0000","status":415,"error":"Unsupported Media Type","message":"Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported","path":"/api/contracts/5d1c261508cd0421d8187e71"}%                                                                                 
 ➜  leasing git:(dev) ✗ curl -X PUT -d '{"name":"ganyipeng1987"}' -H 'Content-Type:application/json' localhost:8080/api/contracts/5d1c261508cd0421d8187e71
 {"id":null,"name":"ganyipeng1987"}%                                                                                                                        
+➜  leasing git:(dev) ✗ curl -X POST -d '{"name":"甘宜鹏"}' -H 'Content-Type:application/json' localhost:8080/api/contracts   
+{"id":"5d1c28f608cd0421d8187e79","name":"甘宜鹏"}%  
+
+➜  leasing git:(dev) ✗ curl localhost:8080/api/contracts
+[{"id":"5d1c261508cd0421d8187e71","name":"ganyipeng1987"},{"id":"5d1c28f608cd0421d8187e79","name":"甘宜鹏"}]% 
 ➜  leasing git:(dev) ✗ 
 ```
 
