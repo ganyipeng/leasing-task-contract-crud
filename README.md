@@ -57,8 +57,8 @@ The crud opts of contract.<br/>
 ### 远程 github 发起 pull 请求
 
 ### 知识总结
-* 把代码写出来只能算是将东西给吃来下去；写代码/完成任务，算是吃东西
-* 吃完之后还需要肠胃的消化吸收才算有营养；及时复习总结，算是消化东西
+* 把代码写出来只能算是将东西给吃来下去了；写代码/完成任务，算是吃东西
+* 吃完之后还需要肠胃的消化吸收才算有营养；及时复习/总结，才能消化吸收
 ![image](http://www.plantuml.com/plantuml/svg/SoWkIImgAStDuIh9BCb9LNYwVUcJlNEUpLtwRDU49xlwda-P_spBRgwq_FoIr2AevFFT_IzNzJpP0PM4S9_FQddQkl5bmwmdExkVBcdXAaWi0XgOcPy7rQHGpQMWeFIqSTQJtRkVTYsq2aaipixCIrTIqDMrKr2223vh01essIguD3StiQXIYQkM2yaOY6LGOoOqlrowrieriGHXnBDj7Kzxfbavv-SLb-QcWZLZjIvQERqeDJKlrYxw-ThE9xkt0pqPYsuY5rO7uT2CQRL3QbuAC4G1)
 
 #### 注解图谱
