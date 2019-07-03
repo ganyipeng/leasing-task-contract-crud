@@ -51,6 +51,8 @@ The crud opts of contract.<br/>
 
 ### 本地提交代码至远程 github
 
+* <kbd>git push</kbd>
+
 ### 远程 github 发起 pull 请求
 
 ### 知识总结
