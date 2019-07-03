@@ -21,3 +21,10 @@ The crud opts of contract.
 ### 远程 github 发起 pull 请求
 
 ### 知识总结
+
+## 遇到的问题
+
+### docker启动mongodb，mongodb自动停止
+
+* 找不到原因呢
+命令没报异常：<kbd>docker logs -f -t --since="2018-02-08" --tail=100 CONTAINER_ID</kbd>
