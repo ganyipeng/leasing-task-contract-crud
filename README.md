@@ -5,12 +5,17 @@ The crud opts of contract.
 ## 工作分解
 
 ### github leasing:dev 分支更新
+* github上进行pull request：<kbd>ganyipeng:leasing/dev <= nemowork:leasing/dev</kbd>
 
 ### 本地 leasing:dev 分支更新
+* 执行命令：<kbd>git pull</kbd>
 
 ### main目录下编写crud代码
+* 编辑修改: ContractRepository.java
+* 编辑修改：ContractController.java
 
 ### test目录下编写crud测试代码
+* 这里先不加了，先只做 curl 测试吧，贪多嚼不烂
 
 ### curl 命令测试
 ```
