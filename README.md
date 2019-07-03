@@ -62,6 +62,8 @@ The crud opts of contract.<br/>
 
 * 把代码写出来只能算是将东西给吃来下去了；写代码/完成任务，算是吃东西
 * 吃完之后还需要肠胃的消化吸收才算有营养；及时复习/总结，才能消化吸收
+* 只吃饭不吸收，那叫糖尿病
+* 只工作不总结，那就老年小白
 
 ![image](http://www.plantuml.com/plantuml/svg/XP71IW91683lynJ3TlO5zY1Iz0HvKmyBJIQvix7E7Y828oAJKRUo0Wj2OY42knZhuYY-pFopwybNQ7642ZQQsmppVz_7JA71B9TvTXsn6giJ39D0pf_Lr9VJRjn_KPy27JWE8ouk7XAyxLLNiq6PwbioQaFlNOtVbbST-E2gvKiXe3rSpNZIv3BgGA-j7iDayPGCkMgAMDoLgOR-6kszmirO3y5Y7jy7Acm1Vu1RdlW1N0hm8zKFqR7bfeqrXsuYyId2s83pWRQQHQjnLADL0-ToUMpeGsqrzppRjjmJ0vsX7nYTii5qKyt5CXYPknRxfkWI7M3kEBJXsMHDoVIMjgek8RIIB-7rYaVNKapIbzJRIeO6POV-p_ghhK3eVlgTNm00)
 
