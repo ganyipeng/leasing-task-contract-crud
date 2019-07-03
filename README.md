@@ -57,12 +57,15 @@ The crud opts of contract.<br/>
 ### 远程 github 发起 pull 请求
 
 ### 知识总结
+
 * 把代码写出来只能算是将东西给吃来下去了；写代码/完成任务，算是吃东西
 * 吃完之后还需要肠胃的消化吸收才算有营养；及时复习/总结，才能消化吸收
 
 ![image](http://www.plantuml.com/plantuml/svg/XP71IW91683lynJ3TlO5zY1Iz0HvKmyBJIQvix7E7Y828oAJKRUo0Wj2OY42knZhuYY-pFopwybNQ7642ZQQsmppVz_7JA71B9TvTXsn6giJ39D0pf_Lr9VJRjn_KPy27JWE8ouk7XAyxLLNiq6PwbioQaFlNOtVbbST-E2gvKiXe3rSpNZIv3BgGA-j7iDayPGCkMgAMDoLgOR-6kszmirO3y5Y7jy7Acm1Vu1RdlW1N0hm8zKFqR7bfeqrXsuYyId2s83pWRQQHQjnLADL0-ToUMpeGsqrzppRjjmJ0vsX7nYTii5qKyt5CXYPknRxfkWI7M3kEBJXsMHDoVIMjgek8RIIB-7rYaVNKapIbzJRIeO6POV-p_ghhK3eVlgTNm00)
 
 #### 注解图谱
+
+* java代码分为CSRM四层，这四层的注解分别如下所示：
 ![image](http://www.plantuml.com/plantuml/svg/bLB1IiD04BtlL-mF5Fz0jhOW5Ggb1UzhCsq3sspSdLHwLF0Yr5vQ1V5IYkZ5Q2aYeh-JRMx-WgbTiY7WmLFcpUvxy-PbcKQkC1eAKXDSQrgJ0Ief12ZRw80Q-LqWZG11zNWNQ1j2gNsKQcolDAK7WX17fPNAVawqtsslI7NbxudL22G25T13Adj5BydbEZsVcVLJ-hZy_hfBdczD_4PODK9vvYlm20GUtPAj1Cgmf92-lsncgrnXi_hSCpSVPZqdh0qQtSqjFer0OvE7eH_q2Ji4LxUaBe38rNKGW61XsOxo-uFoIcR-QYPnRcXd9fbUPFtSGeihFipHWVJ6sL2EWsEkV7uY89zJIivc_k_Oh4ydOEudoTMYc1fXzep-IIxyvIHUfB7Zc-k7PBeax8YFGEbEgBAiwXnvDV9yB2vKrhJlOyUW7aU-qoIiuL6xLavbMHKDnGy0)
 
 ## 遇到的问题
