@@ -75,8 +75,9 @@ The crud opts of contract.<br/>
 
 #### MongoRepository基本的CRUD操作
 
-* 曹老师说告诉别人做什么事情，就是管理
-* 那么，如果我把MongoRepository当作人来看，那么我告诉“他”做CRUD操作，是不是也是管理呢
+* 曹老师说：告诉别人做什么事情，就是管理
+* 那么，如果我把MongoRepository当作人来看，那么我告诉“他”做CRUD操作，是不是也算是管理呢
+* 我认为算，虽然人是有生命的，但是Object这JVM里，也是有“生命周期”的不是吗？new > doing > gc
 
 ![image](http://www.plantuml.com/plantuml/svg/SoWkIImgoStCIybDBE3IKl3DpqlF3qejo2_EBCalgkJIqb9mvj82aa_xvZ-VCX_4r8fNA4uiIzNmpKz9pL781P6Q87L1cEhIWEOwvkHeQ2BndIezKy0gNxIlUhfkrfETdIYIRfb5nIL-YRcf6i4bHPbvwK1Xg02g8Jw9gCfoe7omKq8XJbdI-tH21rJNqzOEcErGBVe--K1zcIcQC1LjlK_shtisPIVOOq_NJd-sRYjKwjcSXgSJ-h3wsWNJrq2fr99K35iSKlDIe04D0000)
 
