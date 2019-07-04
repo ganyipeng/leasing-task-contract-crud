@@ -73,6 +73,10 @@ The crud opts of contract.<br/>
 
 ![image](http://www.plantuml.com/plantuml/svg/bLB1IiD04BtlL-mF5Fz0jhOW5Ggb1UzhCsq3sspSdLHwLF0Yr5vQ1V5IYkZ5Q2aYeh-JRMx-WgbTiY7WmLFcpUvxy-PbcKQkC1eAKXDSQrgJ0Ief12ZRw80Q-LqWZG11zNWNQ1j2gNsKQcolDAK7WX17fPNAVawqtsslI7NbxudL22G25T13Adj5BydbEZsVcVLJ-hZy_hfBdczD_4PODK9vvYlm20GUtPAj1Cgmf92-lsncgrnXi_hSCpSVPZqdh0qQtSqjFer0OvE7eH_q2Ji4LxUaBe38rNKGW61XsOxo-uFoIcR-QYPnRcXd9fbUPFtSGeihFipHWVJ6sL2EWsEkV7uY89zJIivc_k_Oh4ydOEudoTMYc1fXzep-IIxyvIHUfB7Zc-k7PBeax8YFGEbEgBAiwXnvDV9yB2vKrhJlOyUW7aU-qoIiuL6xLavbMHKDnGy0)
 
+#### MongoRepository基本的CRUD操作
+
+![image](http://www.plantuml.com/plantuml/png/SoWkIImgoStCIybDBE3IKl3DpqlF3qejo2_EBCalgkJIqb9mvj82aa_xvZ-VCX_4r8fNA4uiIzNmpKz9pL781P6Q87L1cEhIWEOwvkHeQ2BndIezKy0gNxIlUhfkrfETdIYIRfb5nIL-YRcf6i4bHPbvwK1Xg02g8Jw9gCfoe7omKq8XJbdI-tH21rJNqzOEcErGBVe--K1zcIcQC1LjlK_shtisPIVOOq_NJd-sRYjKwjcSXgSJ-h3wsWNJrq2fr99K35iSKlDIe04D0000)
+
 ## 遇到的问题
 
 ### docker启动mongodb，mongodb自动停止
