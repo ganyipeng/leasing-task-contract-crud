@@ -79,7 +79,7 @@ The crud opts of contract.<br/>
 * 那么，如果我把MongoRepository当作人来看，那么我告诉“他”做CRUD操作，是不是也算是管理呢
 * 我认为算，虽然人是有生命的，但是Object在JVM中，可也是有“生命周期”的呢？<kbd>new > invoke > gc</kbd>
 * 为了，管理对象 > 给对象安排合适的活/任务/工作；那么我就必须得了解该对象的API接口
-* 管人前要识人，管对象前要识对象；识对就是识掌握它对API
+* 即：【管人前要识人，管对象前要识对象】；识对象就是掌握它的API
 
 ![image](http://www.plantuml.com/plantuml/svg/SoWkIImgoStCIybDBE3IKl3DpqlF3qejo2_EBCalgkJIqb9mvj82aa_xvZ-VCX_4r8fNA4uiIzNmpKz9pL781P6Q87L1cEhIWEOwvkHeQ2BndIezKy0gNxIlUhfkrfETdIYIRfb5nIL-YRcf6i4bHPbvwK1Xg02g8Jw9gCfoe7omKq8XJbdI-tH21rJNqzOEcErGBVe--K1zcIcQC1LjlK_shtisPIVOOq_NJd-sRYjKwjcSXgSJ-h3wsWNJrq2fr99K35iSKlDIe04D0000)
 
