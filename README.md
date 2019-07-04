@@ -83,7 +83,7 @@ The crud opts of contract.<br/>
 * 总结：不仅要管人，还要管对象(即API的管理：任务要用适合的API来支撑)
 * 给自己挖的坑：作为管理者，要掌握系统中大多数常用的API
 
-![image](http://www.plantuml.com/plantuml/svg/SoWkIImgoStCIybDBE3IKl3DpqlF3qejo2_EBCalgkJIqb9mvj82aa_xvZ-VCX_4r8fNA4uiIzNmpKz9pL781P6Q87L1cEhIWEOwvkHeQ2BndIezKy0gNxIlUhfkrfETdIYIRfb5nIL-YRcf6i4bHPbvwK1Xg02g8Jw9gCfoe7omKq8XJbdI-tH21rJNqzOEcErGBVe--K1zcIcQC1LjlK_shtisPIVOOq_NJd-sRYjKwjcSXgSJ-h3wsWNJrq2fr99Kh3OvfEQbG0CR0000)
+![image](http://www.plantuml.com/plantuml/svg/SoWkIImgoStCIybDBE3IKl3DpqlF3qejo2_EBCalgkJIqb9mvj82aa_xvZ-VCX_4r8fNA4uiIzNmpKz9pL781P6Q87L1cEhIWEOwvkHeQ2BndIezKy0gNxIlUhfkrfETdIYIRfb5nIL-YRcf6i4bHPbvwK1Xg02g8Jw9gCfoe7omKq8XJbdI-tH21rJNqzOEcErGBVe--K1zcIcQC1LjlK_shtisPIVOOq_NJd-sRYjKwjcSXgSJ-h3wsWNJrq2fr99K73OX53ZwW0B68JKl1Hhy0000)
 
 ## 遇到的问题
 
